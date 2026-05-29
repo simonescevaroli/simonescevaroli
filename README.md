@@ -6,7 +6,7 @@
 [![Leetcode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsimonescevaroli&logo=leetcode&logoColor=yellow)](https://leetcode.com/simonescevaroli/)
 
 
-I'm currently a MSc student in Computer Science and Engineering at Politecnico di Milano.
+I'm currently a Software Engineer at Bending Spoons, the coolest company in the World! Specifically I'm working at WeTransfer.
 
 In my profile you can find a lot of projects done during the universitary years. 🛠️
 
